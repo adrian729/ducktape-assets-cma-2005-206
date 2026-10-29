@@ -1,0 +1,60 @@
+# descriptive: find it and understand it
+id: two-dancing-devils-roundel
+title: Two dancing devils, roundel
+description: The whole round miniature from the verso. Two black horned devils with fine gold hatching dance side by side facing right, the left one with hands clasped before the chest, the right one with one arm thrown out and a leg kicked up, their clawed feet meeting at the bottom. They stand on a yellow-green hillside with blue-green trees under a blue sky that carries a short white inscription and two gold streaks. A thin gold rim closes the scene. Opaque inside the rim, transparent outside.
+type: illustration
+categories:
+  - fantasy
+subjects:
+  - devil
+  - horn
+  - dancer
+  - tree
+  - landscape
+  - roundel
+colors:
+  - blue
+  - yellow
+  - green
+  - gold
+  - black
+facing: right
+composition: framed-scene
+
+# structural: how it is organised and related
+group: b
+render:
+  image: {}
+related:
+  - asset: cma-2005-206/two-dancing-horned-figures
+    role: variant
+  - asset: cma-2005-206/recto-floral-border
+    role: variant
+  - asset: cma-2005-206/angel-chasing-devil-roundel
+    role: companion
+usage_notes:
+  - Complete roundel with its own rim and painted ground; place it as a picture, not as a cut-out.
+  - The figures alone are two-dancing-horned-figures; the roundel is still in place in blue-gold-floral-manuscript-frame.
+display_width:
+  - 300
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: A wedge of the page with a red flower, a gold dot and bare parchment remains at the lower left outside the rim; crop it away when the roundel is used alone.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)"
+  object_identifier: 2005.206.b
+  date: c. 1460
+  artist: Coëtivy Master (French)
+  record_url: https://clevelandart.org/art/2005.206.b
+  image_url: https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1
+license: null

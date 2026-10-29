@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: human-headed-bird-with-gold-neck
+title: Lying bird with a bearded man's head
+description: A grotesque bird lying with its brown body and pointed tail stretched to the right and a long gold neck curving up and over to the left, ending in a pale bearded man's head that hangs face down. The folded wing carries rows of yellow-gold spots and the gold neck is shaded with brown. Cut from the lower margin of the verso border; the background is transparent.
+type: illustration
+categories:
+  - hybrids
+  - fantasy
+  - animals
+subjects:
+  - bird
+  - grotesque
+  - head
+  - beard
+colors:
+  - brown
+  - gold
+  - cream
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: b
+render:
+  image: {}
+related:
+  - asset: cma-2005-206/recto-floral-border
+    role: variant
+  - asset: cma-2005-206/human-headed-bird
+    role: variant
+usage_notes:
+  - Cut from the lower margin of blue-gold-floral-manuscript-frame; the recto has a walking counterpart, human-headed-bird.
+display_width:
+  - 150
+  - 450
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)"
+  object_identifier: 2005.206.b
+  date: c. 1460
+  artist: Coëtivy Master (French)
+  record_url: https://clevelandart.org/art/2005.206.b
+  image_url: https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1
+license: null

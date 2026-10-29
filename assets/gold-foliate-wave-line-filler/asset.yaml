@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: gold-foliate-wave-line-filler
+title: Acanthus wave line filler
+description: A short finite horizontal line filler from the recto, a burnished gold bar with a black outline in which two curling acanthus leaves lie end to end in a wave, a brown and gold leaf on the left and a blue and gold leaf on the right, their lobes drawn in black line over gold. Only the painted bar is opaque; the background is transparent.
+type: divider
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - line-filler
+  - acanthus
+  - leaf
+colors:
+  - gold
+  - blue
+  - brown
+  - black
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: a
+render:
+  image: {}
+related:
+  - asset: cma-2005-206/discs-and-three-diamonds-line-filler
+    role: companion
+usage_notes:
+  - Finite strip at a fixed length; the bar is too short to carry a repeating cycle. Its height matches the discs-and-diamonds fillers of the same page.
+display_width:
+  - 200
+  - 550
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)"
+  object_identifier: 2005.206.a
+  date: c. 1460
+  artist: Coëtivy Master (French)
+  record_url: https://clevelandart.org/art/2005.206.a
+  image_url: https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c
+license: null

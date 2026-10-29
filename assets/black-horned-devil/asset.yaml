@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: black-horned-devil
+title: Running black devil looking back
+description: A slender black devil with two straight horns and pointed ears strides to the right on long legs while its head turns back to the left in profile. The body, limbs and face are drawn in fine gold hatching over black; one arm is bent before the chest, the other stretched back, and a thin curved tail hangs between the legs. The feet end in claws. Cut from the recto roundel; the background is transparent.
+type: illustration
+categories:
+  - fantasy
+subjects:
+  - devil
+  - horn
+colors:
+  - black
+  - gold
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: a
+render:
+  image: {}
+related:
+  - asset: cma-2005-206/angel-chasing-devil-roundel
+    role: variant
+  - asset: cma-2005-206/white-robed-winged-angel
+    role: companion
+  - asset: cma-2005-206/two-dancing-horned-figures
+    role: variant
+usage_notes:
+  - Cut from angel-chasing-devil-in-gold-oval; pairs with white-robed-winged-angel at the same scale, placed to its left.
+display_width:
+  - 100
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)"
+  object_identifier: 2005.206.a
+  date: c. 1460
+  artist: Coëtivy Master (French)
+  record_url: https://clevelandart.org/art/2005.206.a
+  image_url: https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c
+license: null

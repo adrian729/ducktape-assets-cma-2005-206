@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: discs-and-diamonds-line-filler
+title: Discs and diamonds line filler, eight motifs
+description: A finite horizontal line filler from the verso, a burnished gold bar with a black outline carrying eight motifs that alternate blue and brown, each with fine gold hatching, from left to right a blue diamond, brown disc, blue diamond, brown disc, blue disc, brown disc, blue diamond and brown diamond. Only the painted bar is opaque; the background is transparent.
+type: divider
+categories:
+  - geometric
+subjects:
+  - line-filler
+  - disc
+  - diamond
+colors:
+  - gold
+  - blue
+  - brown
+  - black
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: b
+render:
+  image: {}
+related:
+  - asset: cma-2005-206/discs-and-diamonds-repeat-b
+    role: variant
+  - asset: cma-2005-206/discs-and-three-diamonds-line-filler
+    role: variant
+usage_notes:
+  - Finite strip at a fixed length; for a band of any length use discs-and-diamonds-repeat-b, which carries the same motifs as a seamless tile.
+display_width:
+  - 250
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: A speck of a neighbouring gold dot remains just outside the lower left end of the bar.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)"
+  object_identifier: 2005.206.b
+  date: c. 1460
+  artist: Coëtivy Master (French)
+  record_url: https://clevelandart.org/art/2005.206.b
+  image_url: https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1
+license: null

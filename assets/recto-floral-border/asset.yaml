@@ -1,0 +1,71 @@
+# descriptive: find it and understand it
+id: recto-floral-border
+title: Verso floral page border with devils roundel
+description: The complete painted border of the verso, a dense field of hairline tendrils with gold dots, green and yellow leaves, blue and red flowers and red fruits, with large blue and gold acanthus scrolls in the four corners and along the top. The round miniature of two dancing black devils in a landscape sits in the left margin and a human-headed bird with a gold neck lies in the lower margin. The text block is framed by a thin brown and gold rule with a blue finial at each upper corner. The text block is transparent; the parchment between the sprigs is kept at partial opacity.
+type: frame
+categories:
+  - floral
+  - botanical
+  - scrollwork
+  - fantasy
+  - hybrids
+subjects:
+  - frame
+  - vine
+  - leaf
+  - flower
+  - fruit
+  - acanthus
+  - devil
+  - roundel
+  - landscape
+  - bird
+  - grotesque
+  - rule
+colors:
+  - blue
+  - gold
+  - green
+  - red
+  - brown
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: b
+render:
+  image: {}
+related:
+  - asset: cma-2005-206/two-dancing-devils-roundel
+    role: variant
+  - asset: cma-2005-206/human-headed-bird-with-gold-neck
+    role: variant
+  - asset: cma-2005-206/verso-floral-border
+    role: companion
+usage_notes:
+  - Fixed page border, scaled as a whole with content placed in the transparent text block; it is not a border-image, the four sides and corners all differ.
+  - The roundel and the bird are painted into the border and are also available alone as two-dancing-devils-in-gold-landscape-oval and human-headed-bird-with-gold-neck.
+  - Reads best on a light ground because of the partially opaque parchment between the sprigs.
+display_width:
+  - 600
+  - 1600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Parchment between the sprigs is kept at partial alpha across the whole border, so it carries a faint cream haze on dark backgrounds.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)"
+  object_identifier: 2005.206.b
+  date: c. 1460
+  artist: Coëtivy Master (French)
+  record_url: https://clevelandart.org/art/2005.206.b
+  image_url: https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1
+license: null

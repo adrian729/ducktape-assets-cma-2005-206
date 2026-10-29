@@ -1,0 +1,67 @@
+# descriptive: find it and understand it
+id: verso-floral-border
+title: Recto floral page border with empty roundel
+description: The complete painted border of the recto, a dense field of hairline tendrils with gold dots, green and yellow leaves, red and blue flowers and red fruits, with large blue and gold acanthus scrolls at the top centre, the upper right and both lower corners. A human-headed bird walks in the lower margin. The text block is framed by a thin brown and gold rule with a blue and a red finial at its upper corners; a thin gold ring at the right is the empty seat of the removed roundel. The text block, the ring's interior and the parchment between the sprigs are transparent.
+type: frame
+categories:
+  - floral
+  - botanical
+  - scrollwork
+  - hybrids
+subjects:
+  - frame
+  - vine
+  - leaf
+  - flower
+  - fruit
+  - acanthus
+  - bird
+  - grotesque
+  - roundel
+  - rule
+colors:
+  - blue
+  - gold
+  - green
+  - red
+  - brown
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: a
+render:
+  image: {}
+related:
+  - asset: cma-2005-206/angel-chasing-devil-roundel
+    role: companion
+  - asset: cma-2005-206/human-headed-bird
+    role: variant
+  - asset: cma-2005-206/recto-floral-border
+    role: companion
+usage_notes:
+  - Fixed page border, scaled as a whole with content placed in the transparent text block; it is not a border-image, the four sides and corners all differ and the text-block rule is not quite straight.
+  - The roundel angel-chasing-devil-in-gold-oval fits back into the empty gold ring at the right; the bird in the lower margin is also available as human-headed-bird.
+display_width:
+  - 600
+  - 1600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The trimmed leaf edge runs as a thin dark line along the outer sides; flaked spots inside some leaves show parchment tone, and a sliver of blue sky remains inside the top of the empty ring.
+master: master.png
+provenance:
+  method: ai-assisted-source-mask
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)"
+  object_identifier: 2005.206.a
+  date: c. 1460
+  artist: Coëtivy Master (French)
+  record_url: https://clevelandart.org/art/2005.206.a
+  image_url: https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c
+license: null

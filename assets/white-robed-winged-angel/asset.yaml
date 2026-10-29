@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: white-robed-winged-angel
+title: Angel with a gold staff
+description: An angel in a long white robe stands turned to the right, head in three-quarter view with fair hair and a halo kept only as a thin gold line, two long dark red wings with gold speckling rising behind the shoulders. A thin gold staff with a small knob runs diagonally from the upper left across the body to the lower right; the right hand is raised before the chest and the left arm reaches forward. Cut from the recto roundel; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - fantasy
+subjects:
+  - angel
+  - wings
+  - halo
+  - staff
+  - robe
+colors:
+  - white
+  - red
+  - brown
+  - gold
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: a
+render:
+  image: {}
+related:
+  - asset: cma-2005-206/angel-chasing-devil-roundel
+    role: variant
+  - asset: cma-2005-206/black-horned-devil
+    role: companion
+usage_notes:
+  - Cut from angel-chasing-devil-in-gold-oval; pairs with black-horned-devil at the same scale, placed to its right.
+display_width:
+  - 150
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Soft mask edge all round; the halo survives only as a thin gold outline.
+master: master.png
+provenance:
+  method: ai-assisted-source-mask
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)"
+  object_identifier: 2005.206.a
+  date: c. 1460
+  artist: Coëtivy Master (French)
+  record_url: https://clevelandart.org/art/2005.206.a
+  image_url: https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c
+license: null

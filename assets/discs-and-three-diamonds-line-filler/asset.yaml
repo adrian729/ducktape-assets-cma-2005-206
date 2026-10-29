@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: discs-and-three-diamonds-line-filler
+title: Discs and diamonds line filler, ten motifs
+description: A finite horizontal line filler from the recto, a burnished gold bar with a black outline carrying ten motifs that alternate blue and brown, each with fine gold hatching, from left to right a blue disc, brown disc, blue disc, brown diamond, blue diamond, brown diamond, blue disc, brown disc, blue disc and brown diamond. The bar is slightly thicker at the left end than at the right. Only the painted bar is opaque; the background is transparent.
+type: divider
+categories:
+  - geometric
+subjects:
+  - line-filler
+  - disc
+  - diamond
+colors:
+  - gold
+  - blue
+  - brown
+  - black
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: a
+render:
+  image: {}
+related:
+  - asset: cma-2005-206/discs-and-diamonds-repeat-a
+    role: variant
+  - asset: cma-2005-206/gold-foliate-wave-line-filler
+    role: companion
+  - asset: cma-2005-206/discs-and-diamonds-line-filler
+    role: variant
+usage_notes:
+  - Finite strip at a fixed length; for a band of any length use discs-and-diamonds-repeat-a, which carries the same motifs as a seamless tile.
+display_width:
+  - 300
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The outer edges of the bar are soft and slightly ragged as painted.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)"
+  object_identifier: 2005.206.a
+  date: c. 1460
+  artist: Coëtivy Master (French)
+  record_url: https://clevelandart.org/art/2005.206.a
+  image_url: https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c
+license: null
