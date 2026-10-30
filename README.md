@@ -3,7 +3,7 @@
 
 Angels, devils, hybrids and the disc-and-diamond line fillers of a Book of Hours leaf (Office of the Dead) painted by the Coëtivy Master in Paris about 1460, in the Cleveland Museum of Art; recto (a) and verso (b) as groups.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-2005-206`, historical, 15 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-2005-206`, historical, 15 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `cma-2005-206/angel-chasing-devil-roundel`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2005-206@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2005-206@1.0.0/webp/angel-chasing-devil-roundel-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-cma-2005-206`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-cma-2005-206-masters`; never put a master on a page.
